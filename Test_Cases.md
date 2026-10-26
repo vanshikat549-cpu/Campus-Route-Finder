@@ -80,8 +80,27 @@ No route exists between these locations!
 
 **Status:** Pass
 
-
 ---
+
+## Test Case 4: Connected Components
+
+**Purpose:** Count separate groups of connected locations.
+
+**Input:**
+
+Menu choice: 5
+
+**Expected Output:**
+
+Total connected components: 2
+
+**Actual Output:**
+
+Total connected components: 2
+
+**Status:** Pass
+---
+
 
 ## Conclusion
 
